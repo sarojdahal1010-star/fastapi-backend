@@ -72,3 +72,9 @@ def log_manual(req: ManualLogRequest):
     if not subj:
         return {"error": f"Subject {req.subject} not found"}
     return log_session_manual(subj, req.section, req.date_bs, req.time_from, req.time_to)
+
+# Routine endpoint
+@app.get("/routine")
+def get_routine():
+    """Return the routine schedule."""
+    return routine
