@@ -1,0 +1,898 @@
+[
+  {
+    "subject": "Introductory Animal Production System",
+    "semester": 3,
+    "is_extra_paid": true,
+    "total_credit_hours": 60,
+    "notes": "Only theory sessions are extra paid; practical sessions are regular. Theory units split into one session per credit hour using meaningful subtopics.",
+    "syllabus": {
+      "theory": [
+        {
+          "unit": "Unit 1",
+          "hours": 3,
+          "sessions": [
+            {"title": "Importance of livestock in agriculture and national nutritional security", "hours": 1},
+            {"title": "Socio-economic role of livestock and livelihoods", "hours": 1},
+            {"title": "Livestock, environment, GHGs and nutrient recycling", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Unit 2",
+          "hours": 2,
+          "sessions": [
+            {"title": "Bio-physical and socio-cultural factors affecting production", "hours": 1},
+            {"title": "Seasons, land, disease, market and policy influences", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Unit 3",
+          "hours": 7,
+          "sessions": [
+            {"title": "Extensive systems: review of Nepalese livestock production", "hours": 1},
+            {"title": "Characteristics of extensive farming and pastoralism", "hours": 1},
+            {"title": "Subsistence farming, ranching and smallholder systems", "hours": 1},
+            {"title": "Intensive systems: characteristics and high-input farming", "hours": 1},
+            {"title": "Environmental issues in intensive farming", "hours": 1},
+            {"title": "Semi-intensive, landless and crop-livestock systems", "hours": 1},
+            {"title": "Advantages and disadvantages of different farming systems", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Unit 4",
+          "hours": 7,
+          "sessions": [
+            {"title": "Taxonomy and arrangement of common domestic livestock", "hours": 1},
+            {"title": "Definition of livestock, history of domestication and behavior", "hours": 1},
+            {"title": "Breeds: availability and performance in Nepal", "hours": 1},
+            {"title": "Effect of climate on animals and adaptation", "hours": 1},
+            {"title": "Common husbandry terms and birthing basics", "hours": 1},
+            {"title": "Gestation periods and reproductive cycles overview", "hours": 1},
+            {"title": "Rectal temperatures and practical measurement notes", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Unit 5",
+          "hours": 3,
+          "sessions": [
+            {"title": "Body parts and judging: cattle and buffalo", "hours": 1},
+            {"title": "Body parts and judging: sheep and goat", "hours": 1},
+            {"title": "Body parts and judging: non-ruminants and poultry", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Unit 6",
+          "hours": 7,
+          "sessions": [
+            {"title": "Digestive system: ruminants overview", "hours": 1},
+            {"title": "Digestive system: non-ruminants overview", "hours": 1},
+            {"title": "Digestive system: poultry species overview", "hours": 1},
+            {"title": "Reproductive system: ruminants", "hours": 1},
+            {"title": "Reproductive system: non-ruminants", "hours": 1},
+            {"title": "Reproductive system: poultry species", "hours": 1},
+            {"title": "Comparative digestive and reproductive notes", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Unit 7",
+          "hours": 6,
+          "sessions": [
+            {"title": "Approach and handling: cattle", "hours": 1},
+            {"title": "Approach and handling: buffalo", "hours": 1},
+            {"title": "Approach and handling: sheep and goat", "hours": 1},
+            {"title": "Approach and handling: swine and horse", "hours": 1},
+            {"title": "Approach and handling: rabbit and small mammals", "hours": 1},
+            {"title": "Approach and handling: poultry and mixed species", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Unit 8",
+          "hours": 3,
+          "sessions": [
+            {"title": "Dentition and ageing: cattle and buffalo", "hours": 1},
+            {"title": "Dentition and ageing: sheep and goat", "hours": 1},
+            {"title": "Dentition and ageing: non-ruminants overview", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Unit 9",
+          "hours": 3,
+          "sessions": [
+            {"title": "Record keeping: general management and production", "hours": 1},
+            {"title": "Record keeping: reproduction records", "hours": 1},
+            {"title": "Record keeping: financial records and uses", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Unit 10",
+          "hours": 4,
+          "sessions": [
+            {"title": "Common husbandry practices: ruminants", "hours": 1},
+            {"title": "Common husbandry practices: non-ruminants", "hours": 1},
+            {"title": "Common husbandry practices: poultry", "hours": 1},
+            {"title": "Integrated husbandry practices and summary", "hours": 1}
+          ]
+        }
+      ],
+      "practical": [
+        {"unit": "Practical 1", "hours": 1, "sessions": [{"title": "Identify the scope of animals reared under Nepalese livestock husbandry practices PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 2", "hours": 1, "sessions": [{"title": "Identify types of farming systems in Nepal PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 3", "hours": 1, "sessions": [{"title": "Identify common cattle breeds and their characteristics PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 4", "hours": 1, "sessions": [{"title": "Identify common buffalo breeds and their characteristics PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 5", "hours": 1, "sessions": [{"title": "Identify common goat breeds and their characteristics PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 6", "hours": 1, "sessions": [{"title": "Identify common sheep breeds and their characteristics PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 7", "hours": 1, "sessions": [{"title": "Identify common poultry breeds and their characteristics PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 8", "hours": 1, "sessions": [{"title": "Study body parts of domestic animals and perform judging PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 9", "hours": 2, "sessions": [{"title": "Study digestive and reproductive systems of livestock and poultry species PRACTICAL — Ruminants and non-ruminants", "hours": 1}, {"title": "Study reproductive systems of livestock and poultry species PRACTICAL — Poultry and comparative notes", "hours": 1}]},
+        {"unit": "Practical 10", "hours": 1, "sessions": [{"title": "Demonstrate different methods of livestock identification PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 11", "hours": 2, "sessions": [{"title": "Approach, handling and control of Livestock PRACTICAL — handling techniques and safety", "hours": 1}, {"title": "Approach, handling and control of Livestock PRACTICAL — hands-on practice and demonstration", "hours": 1}]},
+        {"unit": "Practical 12", "hours": 1, "sessions": [{"title": "Estimate age by dentition method PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 13", "hours": 1, "sessions": [{"title": "Identify the importance and methods of farm record PRACTICAL", "hours": 1}]}
+      ]
+    }
+  },
+  {
+    "subject": "Basic Livestock Health Management-I",
+    "semester":3,
+    "is_extra_paid": false,
+    "total_credit_hours": 127,
+    "notes": "Theory and practical units split into one session per credit hour using meaningful subtopics; practical sessions labeled PRACTICAL.",
+    "syllabus": {
+      "theory": [
+        {
+          "unit": "Unit 1",
+          "hours": 10,
+          "sessions": [
+            {"title": "Differentiate tissues of animal body: epithelial and connective tissues", "hours": 1},
+            {"title": "Differentiate tissues of animal body: muscle and nervous tissues", "hours": 1},
+            {"title": "Gross anatomy: skeletal system overview", "hours": 1},
+            {"title": "Gross anatomy: digestive system", "hours": 1},
+            {"title": "Gross anatomy: respiratory system", "hours": 1},
+            {"title": "Gross anatomy: circulatory system", "hours": 1},
+            {"title": "Gross anatomy: reproductive system", "hours": 1},
+            {"title": "Gross anatomy: urinary system", "hours": 1},
+            {"title": "Gross anatomy: nervous and endocrine systems", "hours": 1},
+            {"title": "Comparative anatomy and integrated organ system review", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Unit 2",
+          "hours": 8,
+          "sessions": [
+            {"title": "Animal cell: membrane structure and transport", "hours": 1},
+            {"title": "Animal cell: organelles and cellular functions", "hours": 1},
+            {"title": "Physiology: digestive system functions and digestion", "hours": 1},
+            {"title": "Physiology: respiratory system functions and gas exchange", "hours": 1},
+            {"title": "Physiology: circulatory system functions and hemodynamics", "hours": 1},
+            {"title": "Physiology: nervous and endocrine integration", "hours": 1},
+            {"title": "Reproductive physiology: hormones and cycles", "hours": 1},
+            {"title": "Physiological regulation and homeostasis", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Unit 3",
+          "hours": 7,
+          "sessions": [
+            {"title": "Definitions and common veterinary terminology", "hours": 1},
+            {"title": "Inflammation: definition, stages and causes", "hours": 1},
+            {"title": "Disease of stomach: common conditions and signs", "hours": 1},
+            {"title": "Disease of intestine and liver: diagnosis and management", "hours": 1},
+            {"title": "Disease of kidney and urinary tract: recognition and basics", "hours": 1},
+            {"title": "Disease of lung and heart: common presentations", "hours": 1},
+            {"title": "Disease of mammary gland: mastitis and related issues", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Unit 4",
+          "hours": 6,
+          "sessions": [
+            {"title": "Organisms causing infectious diseases: overview of bacteria", "hours": 1},
+            {"title": "Organisms causing infectious diseases: overview of viruses", "hours": 1},
+            {"title": "Organisms causing infectious diseases: overview of fungi", "hours": 1},
+            {"title": "Differentiate bacteria and viruses: structure and diagnosis", "hours": 1},
+            {"title": "Vaccine types and principles of vaccination", "hours": 1},
+            {"title": "Immunity: innate and adaptive responses and immunization", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Unit 5",
+          "hours": 10,
+          "sessions": [
+            {"title": "Internal parasites: nematodes — characteristics and control", "hours": 1},
+            {"title": "Internal parasites: cestodes and trematodes — life cycles and control", "hours": 1},
+            {"title": "Internal parasites: diagnosis and integrated control measures", "hours": 1},
+            {"title": "External parasites: ticks and mites — identification and control", "hours": 1},
+            {"title": "External parasites: lice and flies — management and prevention", "hours": 1},
+            {"title": "Protozoa: common protozoal pathogens and their features", "hours": 1},
+            {"title": "Protozoa: diagnosis and treatment approaches", "hours": 1},
+            {"title": "Parasite control strategies: anthelmintics and resistance", "hours": 1},
+            {"title": "Parasitic disease prevention and farm-level measures", "hours": 1},
+            {"title": "Zoonotic parasites and public health considerations", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Unit 6",
+          "hours": 12,
+          "sessions": [
+            {"title": "Routes of drug and medicine administration", "hours": 1},
+            {"title": "Antibiotics: classes, spectrum and prudent use", "hours": 1},
+            {"title": "Anthelmintics, purgatives and antiparasitic drugs", "hours": 1},
+            {"title": "Antihistaminics, analgesics and anesthetic drugs", "hours": 1},
+            {"title": "Factors affecting drug dosage and pharmacokinetics", "hours": 1},
+            {"title": "Calculating drug dosages: worked examples", "hours": 1},
+            {"title": "Understanding and writing prescriptions", "hours": 1},
+            {"title": "Poisoning: cyanide and nitrate — recognition and first aid", "hours": 1},
+            {"title": "Poisoning: organophosphate toxicity — signs and treatment", "hours": 1},
+            {"title": "Poisoning: snake bite management and antivenom basics", "hours": 1},
+            {"title": "Preparation of tinctures, lotions and ointments: principles", "hours": 1},
+            {"title": "Mixing and compounding medicines: practical considerations", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Unit 7",
+          "hours": 12,
+          "sessions": [
+            {"title": "Signs of health and disease: observation and interpretation", "hours": 1},
+            {"title": "Classification of disease: infectious, metabolic, toxic, etc.", "hours": 1},
+            {"title": "History taking: techniques and important questions", "hours": 1},
+            {"title": "Clinical examination: systematic approach", "hours": 1},
+            {"title": "Tympany and impaction: recognition and management", "hours": 1},
+            {"title": "Vomition, diarrhea and dysentery: causes and treatment", "hours": 1},
+            {"title": "Epistaxis and pneumonia: clinical signs and response", "hours": 1},
+            {"title": "Anaemia: types, diagnosis and basic management", "hours": 1},
+            {"title": "Nephritis and retention of urine: diagnosis and care", "hours": 1},
+            {"title": "Encephalitis: recognition and differential diagnosis", "hours": 1},
+            {"title": "Conjunctivitis and otitis: clinical approach", "hours": 1},
+            {"title": "Dermatitis: causes, diagnosis and treatment", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Unit 8",
+          "hours": 4,
+          "sessions": [
+            {"title": "Wounds and injuries: assessment and first aid", "hours": 1},
+            {"title": "Burns: classification and emergency care", "hours": 1},
+            {"title": "Dislocation and fracture: recognition and stabilization", "hours": 1},
+            {"title": "Euthanasia: humane methods and ethical considerations", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Unit 9",
+          "hours": 6,
+          "sessions": [
+            {"title": "Infertility and anoestrous: causes and diagnostic approach", "hours": 1},
+            {"title": "Infertility: treatment strategies and management", "hours": 1},
+            {"title": "Metritis and retention of placenta: recognition and care", "hours": 1},
+            {"title": "Prolapse: types, emergency management and prevention", "hours": 1},
+            {"title": "Dystocia: causes and obstetric management", "hours": 1},
+            {"title": "Obstetric emergencies and post-partum care", "hours": 1}
+          ]
+        }
+      ],
+      "practical": [
+        {
+          "unit": "Practical 1",
+          "hours": 4,
+          "sessions": [
+            {"title": "Dissect and study skeletal and muscular systems PRACTICAL", "hours": 1},
+            {"title": "Dissect and study digestive and respiratory systems PRACTICAL", "hours": 1},
+            {"title": "Dissect and study circulatory and urinary systems PRACTICAL", "hours": 1},
+            {"title": "Dissect and study reproductive and nervous systems PRACTICAL", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Practical 2",
+          "hours": 4,
+          "sessions": [
+            {"title": "Blood collection techniques: venipuncture PRACTICAL", "hours": 1},
+            {"title": "Prepare blood smears: staining and slide prep PRACTICAL", "hours": 1},
+            {"title": "Microscopic examination of blood smears PRACTICAL", "hours": 1},
+            {"title": "Interpretation of common hematological findings PRACTICAL", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Practical 4",
+          "hours": 4,
+          "sessions": [
+            {"title": "Prepare common laboratory media: principles PRACTICAL", "hours": 1},
+            {"title": "Measure and mix media components PRACTICAL", "hours": 1},
+            {"title": "Sterilization and pouring plates PRACTICAL", "hours": 1},
+            {"title": "Quality check and storage of prepared media PRACTICAL", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Practical 5",
+          "hours": 4,
+          "sessions": [
+            {"title": "Collect milk samples and prepare for culture PRACTICAL", "hours": 1},
+            {"title": "Inoculate media with milk samples PRACTICAL", "hours": 1},
+            {"title": "Incubation and colony observation PRACTICAL", "hours": 1},
+            {"title": "Interpret culture results and basic reporting PRACTICAL", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Practical 6",
+          "hours": 4,
+          "sessions": [
+            {"title": "Gram staining: smear preparation PRACTICAL", "hours": 1},
+            {"title": "Gram staining: staining steps PRACTICAL", "hours": 1},
+            {"title": "Microscopy and interpretation of Gram results PRACTICAL", "hours": 1},
+            {"title": "Record keeping and reporting of Gram stain PRACTICAL", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Practical 7",
+          "hours": 4,
+          "sessions": [
+            {"title": "Sterilize glassware: autoclave and dry heat PRACTICAL", "hours": 1},
+            {"title": "Sterilize utensils: chemical and physical methods PRACTICAL", "hours": 1},
+            {"title": "Aseptic technique in lab work PRACTICAL", "hours": 1},
+            {"title": "Maintenance and validation of sterilization PRACTICAL", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Practical 9",
+          "hours": 4,
+          "sessions": [
+            {"title": "Collect and identify common parasitic eggs PRACTICAL", "hours": 1},
+            {"title": "Microscopic morphology and differentiation PRACTICAL", "hours": 1},
+            {"title": "Quantitative egg counts and interpretation PRACTICAL", "hours": 1},
+            {"title": "Reporting and control recommendations PRACTICAL", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Practical 10",
+          "hours": 4,
+          "sessions": [
+            {"title": "Prepare ointments: formulation and mixing PRACTICAL", "hours": 1},
+            {"title": "Prepare lotions: dilution and preservatives PRACTICAL", "hours": 1},
+            {"title": "Quality checks and packaging PRACTICAL", "hours": 1},
+            {"title": "Labeling and safe storage of preparations PRACTICAL", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Practical 11",
+          "hours": 4,
+          "sessions": [
+            {"title": "Demonstrate routes of drug administration: oral and topical PRACTICAL", "hours": 1},
+            {"title": "Demonstrate routes: intramuscular and subcutaneous PRACTICAL", "hours": 1},
+            {"title": "Demonstrate routes: intravenous and intradermal PRACTICAL", "hours": 1},
+            {"title": "Safe handling and disposal of sharps PRACTICAL", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Practical 12",
+          "hours": 4,
+          "sessions": [
+            {"title": "Vaccine handling and cold chain principles PRACTICAL", "hours": 1},
+            {"title": "Vaccine reconstitution and dose preparation PRACTICAL", "hours": 1},
+            {"title": "Vaccine administration techniques PRACTICAL", "hours": 1},
+            {"title": "Post-vaccination observation and record keeping PRACTICAL", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Practical 13",
+          "hours": 4,
+          "sessions": [
+            {"title": "History taking: structured interview PRACTICAL", "hours": 1},
+            {"title": "Clinical examination: external inspection PRACTICAL", "hours": 1},
+            {"title": "Clinical examination: palpation and basic tests PRACTICAL", "hours": 1},
+            {"title": "Case write-up and reporting PRACTICAL", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Practical 14",
+          "hours": 4,
+          "sessions": [
+            {"title": "Measure temperature and pulse: techniques PRACTICAL", "hours": 1},
+            {"title": "Assess respiration and breathing patterns PRACTICAL", "hours": 1},
+            {"title": "Palpation, percussion and auscultation techniques PRACTICAL", "hours": 1},
+            {"title": "Integrating vitals into clinical assessment PRACTICAL", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Practical 15",
+          "hours": 4,
+          "sessions": [
+            {"title": "Examine wounds: cleaning and assessment PRACTICAL", "hours": 1},
+            {"title": "Debridement and dressing techniques PRACTICAL", "hours": 1},
+            {"title": "Apply local treatments and bandaging PRACTICAL", "hours": 1},
+            {"title": "Follow-up care and documentation PRACTICAL", "hours": 1}
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "subject": "Introductory Genetics and Animal Breeding",
+    "semester": 3,
+    "is_extra_paid": false,
+    "total_credit_hours": 58,
+    "notes": "Theory and practical units split into one session per credit hour using meaningful subtopics; practical sessions labeled PRACTICAL.",
+    "syllabus": {
+      "theory": [
+        {
+          "unit": "Unit 1",
+          "hours": 4,
+          "sessions": [
+            {"title": "Importance of animal breeding in livestock improvement in Nepal", "hours": 1},
+            {"title": "History of animal breeding in Nepal", "hours": 1},
+            {"title": "Breeding institutions and activities in Nepal", "hours": 1},
+            {"title": "Common terminologies in genetics and animal breeding", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Unit 2",
+          "hours": 3,
+          "sessions": [
+            {"title": "Animal genetic resources of Nepal", "hours": 1},
+            {"title": "Principles of conservation of genetic resources", "hours": 1},
+            {"title": "Utilization of animal genetic resources", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Unit 3",
+          "hours": 2,
+          "sessions": [
+            {"title": "Basic principles of Mendelian Genetics", "hours": 1},
+            {"title": "Deviations in Mendelian ratios", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Unit 4",
+          "hours": 4,
+          "sessions": [
+            {"title": "Chromosomal theory of inheritance", "hours": 1},
+            {"title": "Genes and gene actions", "hours": 1},
+            {"title": "Expression of genes in phenotypes", "hours": 1},
+            {"title": "Case studies in gene expression", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Unit 5",
+          "hours": 2,
+          "sessions": [
+            {"title": "Trait definition and importance", "hours": 1},
+            {"title": "Economic values of traits in livestock species", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Unit 6",
+          "hours": 5,
+          "sessions": [
+            {"title": "Importance and basic principles of selection", "hours": 1},
+            {"title": "Basis of selection: phenotypic and genetic", "hours": 1},
+            {"title": "Methods of selection: mass selection", "hours": 1},
+            {"title": "Methods of selection: family and progeny testing", "hours": 1},
+            {"title": "Comparative evaluation of selection methods", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Unit 7",
+          "hours": 7,
+          "sessions": [
+            {"title": "Heritability and realized heritability", "hours": 1},
+            {"title": "Repeatability and its estimation", "hours": 1},
+            {"title": "Genetic gain and selection differential", "hours": 1},
+            {"title": "Selection limit and selection intensity", "hours": 1},
+            {"title": "Heterosis and its applications", "hours": 1},
+            {"title": "Mean and variance in breeding data", "hours": 1},
+            {"title": "Correlations and regressions in selection parameters", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Unit 8",
+          "hours": 6,
+          "sessions": [
+            {"title": "Principles of mating systems in livestock", "hours": 1},
+            {"title": "Inbreeding: principles and effects", "hours": 1},
+            {"title": "Crossbreeding: principles and applications", "hours": 1},
+            {"title": "Outcrossing and line breeding", "hours": 1},
+            {"title": "Mating systems in genetic improvement programs", "hours": 1},
+            {"title": "Comparative evaluation of mating systems", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Unit 9",
+          "hours": 9,
+          "sessions": [
+            {"title": "Define breeding goals and objectives", "hours": 1},
+            {"title": "Basis of breeding objectives", "hours": 1},
+            {"title": "Open nucleus breeding systems", "hours": 1},
+            {"title": "Close nucleus breeding systems", "hours": 1},
+            {"title": "Formulation of breeding plans for cattle", "hours": 1},
+            {"title": "Formulation of breeding plans for buffalo", "hours": 1},
+            {"title": "Formulation of breeding plans for goats and sheep", "hours": 1},
+            {"title": "Community breeding systems", "hours": 1},
+            {"title": "Evaluation of breeding strategies", "hours": 1}
+          ]
+        },
+        {
+          "unit": "Unit 10",
+          "hours": 3,
+          "sessions": [
+            {"title": "Artificial Insemination (AI): importance and methods", "hours": 1},
+            {"title": "Embryo Transfer (ET): principles and applications", "hours": 1},
+            {"title": "Advanced Assisted Reproduction Technologies (ART)", "hours": 1}
+          ]
+        }
+      ],
+      "practical": [
+        {"unit": "Practical 1", "hours": 3, "sessions": [{"title": "Observe cell structure PRACTICAL", "hours": 1}, {"title": "Observe cell division stages PRACTICAL", "hours": 1}, {"title": "Interpret cell division observations PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 2", "hours": 3, "sessions": [{"title": "Observe DNA structure PRACTICAL", "hours": 1}, {"title": "Observe DNA replication PRACTICAL", "hours": 1}, {"title": "Observe transcription and translation PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 3", "hours": 3, "sessions": [{"title": "Calculate linkage map PRACTICAL", "hours": 1}, {"title": "Calculate coincidence PRACTICAL", "hours": 1}, {"title": "Calculate interference PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 4", "hours": 4, "sessions": [{"title": "Calculate gene frequency PRACTICAL", "hours": 1}, {"title": "Calculate genotypic frequency PRACTICAL", "hours": 1}, {"title": "Calculate frequency for sex-linked and multiple genes PRACTICAL", "hours": 1}, {"title": "Calculate frequency under selection, mutation and migration PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 5", "hours": 3, "sessions": [{"title": "Identify variation in livestock PRACTICAL", "hours": 1}, {"title": "Identify causes of variation PRACTICAL", "hours": 1}, {"title": "Interpret variation data PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 6", "hours": 4, "sessions": [{"title": "Estimate selection response PRACTICAL", "hours": 1}, {"title": "Estimate selection limit PRACTICAL", "hours": 1}, {"title": "Estimate selection differential PRACTICAL", "hours": 1}, {"title": "Estimate genetic gain PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 7", "hours": 3, "sessions": [{"title": "Estimate repeatability PRACTICAL", "hours": 1}, {"title": "Estimate heritability PRACTICAL", "hours": 1}, {"title": "Interpret repeatability and heritability PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 8", "hours": 3, "sessions": [{"title": "Estimate selection parameters: mean PRACTICAL", "hours": 1}, {"title": "Estimate selection parameters: variance PRACTICAL", "hours": 1}, {"title": "Estimate selection parameters: correlation/regression PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 9", "hours": 4, "sessions": [{"title": "Evaluate inbreeding methods: procedures and outcomes PRACTICAL", "hours": 1}, {"title": "Evaluate crossbreeding methods: procedures and outcomes PRACTICAL", "hours": 1}, {"title": "Evaluate outcrossing: applications and limitations PRACTICAL", "hours": 1}, {"title": "Compare breeding methods: advantages and limitations PRACTICAL", "hours": 1}]}
+      ]
+    }
+  },
+  {
+    "subject": "Basics of Animal Product Technology - II",
+    "semester": 5,
+    "is_extra_paid": false,
+    "total_credit_hours": 60,
+    "notes": "Theory and practical units split into one session per credit hour using meaningful subtopics; practical sessions labeled PRACTICAL. Missing practical hours assumed as 1.",
+    "syllabus": {
+      "theory": [
+        {"unit": "Unit 1", "hours": 4, "sessions": [{"title": "Meat and wool industry in Nepal: overview", "hours": 1}, {"title": "Terminology related to meat and wool industries", "hours": 1}, {"title": "Importance of meat and wool industry in Nepal", "hours": 1}, {"title": "Concept of organic meat and wool production", "hours": 1}]},
+        {"unit": "Unit 2", "hours": 4, "sessions": [{"title": "Composition of meat (brief)", "hours": 1}, {"title": "Nutritive value of meat (brief)", "hours": 1}, {"title": "Muscle structure and conversion of muscle to meat", "hours": 1}, {"title": "Physical and chemical properties of meat (brief)", "hours": 1}]},
+        {"unit": "Unit 3", "hours": 5, "sessions": [{"title": "Types of meat products (brief)", "hours": 1}, {"title": "Slaughtering practices and process hygiene", "hours": 1}, {"title": "Microbiology of meat (brief)", "hours": 1}, {"title": "Evaluation and grading of meat", "hours": 1}, {"title": "Skin and hide processing", "hours": 1}]},
+        {"unit": "Unit 4", "hours": 5, "sessions": [{"title": "Importance of meat preservation in Nepal", "hours": 1}, {"title": "Chilling and freezing methods", "hours": 1}, {"title": "Curing, smoking and dehydration", "hours": 1}, {"title": "Canning and radiation preservation", "hours": 1}, {"title": "Meat cutting and packaging for marketing", "hours": 1}]},
+        {"unit": "Unit 5", "hours": 3, "sessions": [{"title": "Post-mortem examination of meat", "hours": 1}, {"title": "Uses of slaughtering by-products", "hours": 1}, {"title": "HACCP for slaughterhouses", "hours": 1}]},
+        {"unit": "Unit 6", "hours": 5, "sessions": [{"title": "Nutritive value of fish", "hours": 1}, {"title": "Harvesting fish for human consumption", "hours": 1}, {"title": "Fish processing methods", "hours": 1}, {"title": "Fish processing procedures", "hours": 1}, {"title": "Evaluation, grading and preservation of processed fish", "hours": 1}]},
+        {"unit": "Unit 7", "hours": 4, "sessions": [{"title": "Sheep production: milk, meat and wool uses", "hours": 1}, {"title": "Climate and environmental stress impacts on sheep", "hours": 1}, {"title": "Management improvements for sheep production", "hours": 1}, {"title": "Feeding improvements for sheep production", "hours": 1}]},
+        {"unit": "Unit 8", "hours": 4, "sessions": [{"title": "Properties of true wool", "hours": 1}, {"title": "Physical properties of wool", "hours": 1}, {"title": "Chemical properties of wool", "hours": 1}, {"title": "Factors affecting wool quality", "hours": 1}]},
+        {"unit": "Unit 9", "hours": 4, "sessions": [{"title": "Development of follicles (brief)", "hours": 1}, {"title": "Fiber standards", "hours": 1}, {"title": "Screening of qualitative wool: purity and non-purity characteristics", "hours": 1}, {"title": "Selection and grading of wool", "hours": 1}]},
+        {"unit": "Unit 10", "hours": 4, "sessions": [{"title": "Methods of fiber measurement", "hours": 1}, {"title": "Measurement of fiber dimension", "hours": 1}, {"title": "Fiber surface morphology and orientation degree", "hours": 1}, {"title": "Microscopic examination of fibers", "hours": 1}]},
+        {"unit": "Unit 11", "hours": 3, "sessions": [{"title": "Post-shearing operations: washing and blending", "hours": 1}, {"title": "Post-shearing operations: spinning and carding", "hours": 1}, {"title": "Weaving, fulling, finishing and chemical finishes", "hours": 1}]}
+      ],
+      "practical": [
+        {"unit": "Practical 1", "hours": 1, "sessions": [{"title": "Identify commonly used meat and wool processing equipment PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 2", "hours": 1, "sessions": [{"title": "Prepare slaughterhouse layout and identify slaughtering procedures PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 3", "hours": 2, "sessions": [{"title": "Post-slaughter evaluation: appearance, texture, marbling, WHC, connective tissue, firmness PRACTICAL", "hours": 1}, {"title": "Eating quality judging: flavor, texture, tenderness, appearance, juiciness, sensory PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 4", "hours": 2, "sessions": [{"title": "Prepare ham and bacon in lab PRACTICAL", "hours": 1}, {"title": "Prepare sausages, meat loaf and dry meat PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 5", "hours": 2, "sessions": [{"title": "Identify meat inspection process steps PRACTICAL", "hours": 1}, {"title": "Perform meat quality evaluation PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 6", "hours": 1, "sessions": [{"title": "Process fish and inspect quality for human food PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 7", "hours": 1, "sessions": [{"title": "Identify fiber quality and judge wool PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 8", "hours": 1, "sessions": [{"title": "Study follicle development, related glands and secretions PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 9", "hours": 1, "sessions": [{"title": "Perform tests for identification of wool PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 10", "hours": 1, "sessions": [{"title": "Identify wool products, their market and trends in Nepal PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 11", "hours": 1, "sessions": [{"title": "Judge biosecurity in meat, fish and wool processing units PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 12", "hours": 1, "sessions": [{"title": "Visit nearby meat, fish and wool processing plants PRACTICAL", "hours": 1}]}
+      ]
+    }
+  },
+  {
+    "subject": "Introductory Animal Welfare and Jurisprudence",
+    "semester": 5,
+    "is_extra_paid": true,
+    "total_credit_hours": 45,
+    "notes": "Theory units split into one session per credit hour using meaningful subtopics; expanded legal units to match declared hours. Designed for extra-paid late afternoon classes.",
+    "syllabus": {
+      "theory": [
+        {"unit": "Unit 1", "hours": 2, "sessions": [{"title": "Introduction and importance of animal welfare in domestic farming", "hours": 1}, {"title": "Animal behavior and animal welfare", "hours": 1}]},
+        {"unit": "Unit 2", "hours": 3, "sessions": [{"title": "Behavioral measures of animal welfare", "hours": 1}, {"title": "Disease and production measures of animal welfare", "hours": 1}, {"title": "Assessing welfare in practice: tools and indicators", "hours": 1}]},
+        {"unit": "Unit 3", "hours": 4, "sessions": [{"title": "Diet and feeding strategies for animal welfare", "hours": 1}, {"title": "Slaughter and disease-control killing: welfare standards", "hours": 1}, {"title": "Euthanasia and emergency killing: humane methods", "hours": 1}, {"title": "Working animals, transport and market welfare", "hours": 1}]},
+        {"unit": "Unit 4", "hours": 5, "sessions": [{"title": "Religion and animal welfare: perspectives and practices", "hours": 1}, {"title": "Human conflict and animal welfare: ethics and protection", "hours": 1}, {"title": "Human–animal interactions: welfare impacts", "hours": 1}, {"title": "Economics and animal welfare: costs, benefits, incentives", "hours": 1}, {"title": "Role of technicians and welfare under disaster", "hours": 1}]},
+        {"unit": "Unit 5", "hours": 3, "sessions": [{"title": "World Organisation for Animal Health (OIE): mandate and structure", "hours": 1}, {"title": "Important OIE guidelines and standards", "hours": 1}, {"title": "OIE Codex and global strategy for animal disease control", "hours": 1}]},
+        {"unit": "Unit 6", "hours": 5, "sessions": [{"title": "Livestock and veterinary services in Nepal's constitution", "hours": 1}, {"title": "Livestock and veterinary issues in Muluki Ain", "hours": 1}, {"title": "National Livestock Policy of Nepal", "hours": 1}, {"title": "Prospects of livestock sector in National Plans", "hours": 1}, {"title": "Livestock Development Strategy", "hours": 1}]},
+        {"unit": "Unit 7", "hours": 15, "sessions": [{"title": "Animal Health & Livestock Services Act, 2055: scope and definitions", "hours": 1}, {"title": "AHLSSA 2055: service delivery and responsibilities", "hours": 1}, {"title": "AHLSSA 2055: disease reporting and control measures", "hours": 1}, {"title": "AHLSSA 2055 Regulation: enforcement and penalties", "hours": 1}, {"title": "Animal Slaughterhouse & Meat Inspection Act 2055: objectives and scope", "hours": 1}, {"title": "AS&MIA 2055: slaughterhouse standards and licensing", "hours": 1}, {"title": "AS&MIA 2055: meat inspection procedures", "hours": 1}, {"title": "AS&MIA 2055 Regulation: compliance and sanctions", "hours": 1}, {"title": "Nepal Veterinary Council Act 2055: registration and ethics", "hours": 1}, {"title": "NVC Act 2055: professional conduct and disciplinary actions", "hours": 1}, {"title": "Feed Act 2033: quality standards and labelling", "hours": 1}, {"title": "Feed Act 2033 Regulations: inspection and enforcement", "hours": 1}, {"title": "Food Act 2023: safety requirements and animal products", "hours": 1}, {"title": "Food Act 2023 Regulations: compliance pathways", "hours": 1}, {"title": "Integrated legal case studies and practical applications", "hours": 1}]},
+        {"unit": "Unit 8", "hours": 4, "sessions": [{"title": "Livestock services directives and guidelines in Nepal", "hours": 1}, {"title": "Bird flu control order: protocols and implementation", "hours": 1}, {"title": "Farm establishment guidelines: welfare and biosecurity", "hours": 1}, {"title": "Live animal transport guidelines", "hours": 1}]},
+        {"unit": "Unit 9", "hours": 4, "sessions": [{"title": "Livestock services system in Nepal", "hours": 1}, {"title": "Animal quarantine in Nepal", "hours": 1}, {"title": "Insurance of livestock", "hours": 1}, {"title": "Banking and finance policies towards livestock sector", "hours": 1}]}
+      ],
+      "practical": []
+    }
+  },
+  {
+    "subject": "Basics of Farm Housing and Biosecurity",
+    "semester": 5,
+    "is_extra_paid": false,
+    "total_credit_hours": 60,
+    "notes": "Theory and practical units split into one session per declared hour using meaningful subtopics; practical sessions labeled PRACTICAL.",
+    "syllabus": {
+      "theory": [
+        {"unit": "Unit 1", "hours": 6, "sessions": [{"title": "Concept of housing management: definitions and scope", "hours": 1}, {"title": "Common terminology in animal housing systems", "hours": 1}, {"title": "Housing systems: requirements and design principles", "hours": 1}, {"title": "Major livestock species and housing implications", "hours": 1}, {"title": "Factors related to housing management: site and materials", "hours": 1}, {"title": "Maintaining farm biosecurity: basic principles", "hours": 1}]},
+        {"unit": "Unit 2", "hours": 4, "sessions": [{"title": "Types of cattle and buffalo housing systems", "hours": 1}, {"title": "Loose house, barn and other provisions", "hours": 1}, {"title": "Cattle and buffalo shed design: calves and adults", "hours": 1}, {"title": "Advantages of tail-to-tail and face-to-face systems", "hours": 1}]},
+        {"unit": "Unit 3", "hours": 4, "sessions": [{"title": "Floor requirements and stall design", "hours": 1}, {"title": "Walls, roof conditions and ventilation", "hours": 1}, {"title": "Stanchion and tie stall systems", "hours": 1}, {"title": "Manger, alleys, gutters, calving and isolation boxes", "hours": 1}]},
+        {"unit": "Unit 4", "hours": 4, "sessions": [{"title": "Goat housing: orientation and dimensions", "hours": 1}, {"title": "Roofing and ventilation management for goats", "hours": 1}, {"title": "Construction considerations for goat sheds", "hours": 1}, {"title": "Kids rearing sheds and manure disposal", "hours": 1}]},
+        {"unit": "Unit 5", "hours": 4, "sessions": [{"title": "Sheep housing: types and determinants", "hours": 1}, {"title": "Scale of rearing and semi-open grazing provisions", "hours": 1}, {"title": "Extensive-confined and overnight housing systems", "hours": 1}, {"title": "Intensive-confined systems and young stock care", "hours": 1}]},
+        {"unit": "Unit 6", "hours": 4, "sessions": [{"title": "Pig housing types and scale of rearing", "hours": 1}, {"title": "Selecting housing locations for pig units", "hours": 1}, {"title": "Construction planning for pig houses/sheds", "hours": 1}, {"title": "Space requirements and housing arrangements for piglets", "hours": 1}]},
+        {"unit": "Unit 7", "hours": 3, "sessions": [{"title": "Climate influence on livestock productivity: overview", "hours": 1}, {"title": "Environmental effects and energy requirements", "hours": 1}, {"title": "Heat stress: temperature, humidity, radiant energy and wind", "hours": 1}]},
+        {"unit": "Unit 8", "hours": 3, "sessions": [{"title": "Livestock and climate change: introduction", "hours": 1}, {"title": "Atmospheric segments and methane generation", "hours": 1}, {"title": "Methane from dung/manure and adaptive management", "hours": 1}]},
+        {"unit": "Unit 9", "hours": 2, "sessions": [{"title": "Environment and animal well-being: concepts", "hours": 1}, {"title": "Stress management, well-being audits and handling", "hours": 1}]},
+        {"unit": "Unit 10", "hours": 4, "sessions": [{"title": "Shade and its role in heat/cold stress management", "hours": 1}, {"title": "Water availability and management for stress reduction", "hours": 1}, {"title": "Cooling strategies for milk centers and housing", "hours": 1}, {"title": "Monitoring and reducing heat/cold stress in housing", "hours": 1}]},
+        {"unit": "Unit 11", "hours": 3, "sessions": [{"title": "Environment-health interactions in livestock", "hours": 1}, {"title": "Thermodynamics and biology of rearing", "hours": 1}, {"title": "Environmental parameters affecting feed intake and production", "hours": 1}]},
+        {"unit": "Unit 12", "hours": 4, "sessions": [{"title": "Introduction to farm hygiene and biosecurity", "hours": 1}, {"title": "Disinfection and sanitation: common disinfectants and doses", "hours": 1}, {"title": "Farm biosecurity practices to prevent disease", "hours": 1}, {"title": "Biosecurity at markets, transport and waste disposal; farm plan", "hours": 1}]}
+      ],
+      "practical": [
+        {"unit": "Practical 1", "hours": 3, "sessions": [{"title": "Dairy housing concepts: theoretical orientation PRACTICAL", "hours": 1}, {"title": "Demonstrate housing models and fact sheets PRACTICAL", "hours": 1}, {"title": "Specimens, photographs and visual exploration of dairy housing PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 2", "hours": 3, "sessions": [{"title": "Layout and design principles for dairy cattle/buffalo housing PRACTICAL", "hours": 1}, {"title": "Sample housing designs and requirements PRACTICAL", "hours": 1}, {"title": "Drawing houses with different dimensions and requirements PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 3", "hours": 3, "sessions": [{"title": "Sheep and goat housing layout: orientation and specimen PRACTICAL", "hours": 1}, {"title": "Design requirements and practical considerations PRACTICAL", "hours": 1}, {"title": "Drawing and dimensioning sheep/goat housing PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 4", "hours": 3, "sessions": [{"title": "Pig housing layout and design: theoretical orientation PRACTICAL", "hours": 1}, {"title": "Sample pig housing designs and requirements PRACTICAL", "hours": 1}, {"title": "Drawing pig houses with different dimensions PRACTICAL", "hours": 1}]},
+        {"unit": "Practical 5", "hours": 3, "sessions": [{"title": "Explore environmental issues related to livestock housing PRACTICAL", "hours": 1}, {"title": "Photograph study and display of related information PRACTICAL", "hours": 1}, {"title": "Discussion and presentation on stress management and well-being PRACTICAL", "hours": 1}]}
+      ]
+    }
+  },
+  {
+  "subject": "Animal Health-II",
+  "semester": "Pre-diploma",
+  "is_extra_paid": false,
+  "total_credit_hours": 118,
+  "notes": "Saroj teaches half of the total 234 credit hours (first 118). Each unit is split into one session per credit hour with explicit, self-contained titles for clarity in the logbook.",
+  "syllabus": {
+    "theory": [
+      {
+        "unit": "Unit 1: Introduce parasite and parasitology",
+        "hours": 3,
+        "sessions": [
+          {"title": "Introduction to parasitology", "hours": 1},
+          {"title": "Types of external parasites", "hours": 1},
+          {"title": "Types of internal parasites and host types (definitive and intermediate)", "hours": 1}
+        ]
+      },
+      {
+        "unit": "Unit 2: Identify/treat external parasites",
+        "hours": 5,
+        "sessions": [
+          {"title": "Introduction to external parasites", "hours": 1},
+          {"title": "Types of lice, ticks and mites", "hours": 1},
+          {"title": "General symptoms of external parasite infestation", "hours": 1},
+          {"title": "Treatment methods for lice, ticks and mites", "hours": 1},
+          {"title": "Leech infestation: recognition and control", "hours": 1}
+        ]
+      },
+      {
+        "unit": "Unit 3: Introduce helminth parasites",
+        "hours": 5,
+        "sessions": [
+          {"title": "Common helminths of cattle and buffalo", "hours": 1},
+          {"title": "Common helminths of horse, sheep and goat", "hours": 1},
+          {"title": "Common helminths of pig, dog and poultry", "hours": 1},
+          {"title": "Effects of helminths on host physiology and productivity", "hours": 1},
+          {"title": "General control measures for helminth parasites", "hours": 1}
+        ]
+      },
+      {
+        "unit": "Unit 4: Identify/treat liver fluke",
+        "hours": 4,
+        "sessions": [
+          {"title": "Introduction to liver fluke disease", "hours": 1},
+          {"title": "Morphology and lifecycle of liver fluke", "hours": 1},
+          {"title": "Diagnosis and treatment of liver fluke", "hours": 1},
+          {"title": "Prevention and control of liver fluke", "hours": 1}
+        ]
+      },
+      {
+        "unit": "Unit 5: Identify/treat paramphistomum",
+        "hours": 4,
+        "sessions": [
+          {"title": "Introduction to paramphistomum", "hours": 1},
+          {"title": "Morphology and lifecycle of paramphistomum", "hours": 1},
+          {"title": "Diagnosis and treatment of paramphistomiasis", "hours": 1},
+          {"title": "Prevention and control of paramphistomiasis", "hours": 1}
+        ]
+      },
+      {
+        "unit": "Unit 6: Explain/treat moniziasis",
+        "hours": 5,
+        "sessions": [
+          {"title": "Introduction to moniziasis", "hours": 1},
+          {"title": "Morphology of Moniezia (tapeworm)", "hours": 1},
+          {"title": "Lifecycle of Moniezia", "hours": 1},
+          {"title": "Diagnosis and treatment of moniziasis", "hours": 1},
+          {"title": "Prevention and control of moniziasis", "hours": 1}
+        ]
+      },
+      {
+        "unit": "Unit 7: Explain Gid (coenurosis)",
+        "hours": 4,
+        "sessions": [
+          {"title": "Introduction to Gid (coenurosis) disease", "hours": 1},
+          {"title": "Morphology of Gid-causing parasite", "hours": 1},
+          {"title": "Lifecycle of Gid-causing parasite", "hours": 1},
+          {"title": "Diagnosis, treatment and prevention of Gid", "hours": 1}
+        ]
+      },
+      {
+        "unit": "Unit 8: Explain pork tapeworm",
+        "hours": 4,
+        "sessions": [
+          {"title": "Introduction to pork tapeworm (Taenia solium)", "hours": 1},
+          {"title": "Morphology of pork tapeworm", "hours": 1},
+          {"title": "Lifecycle of pork tapeworm", "hours": 1},
+          {"title": "Diagnosis, treatment and prevention of pork tapeworm infection", "hours": 1}
+        ]
+      },
+      {
+        "unit": "Unit 9: Explain hydatidosis",
+        "hours": 4,
+        "sessions": [
+          {"title": "Introduction to hydatidosis (Echinococcus)", "hours": 1},
+          {"title": "Morphology of hydatid cyst and parasite", "hours": 1},
+          {"title": "Lifecycle of hydatid parasite", "hours": 1},
+          {"title": "Diagnosis, treatment and prevention of hydatidosis", "hours": 1}
+        ]
+      },
+      {
+        "unit": "Unit 10: Explain dog tapeworm",
+        "hours": 4,
+        "sessions": [
+          {"title": "Introduction to dog tapeworm (Dipylidium/ Taenia)", "hours": 1},
+          {"title": "Morphology of dog tapeworm", "hours": 1},
+          {"title": "Lifecycle of dog tapeworm", "hours": 1},
+          {"title": "Diagnosis, treatment and prevention of dog tapeworm", "hours": 1}
+        ]
+      },
+      {
+        "unit": "Unit 11: Identify/treat small round worm",
+        "hours": 8,
+        "sessions": [
+          {"title": "Introduction to small round worms (nematodes)", "hours": 1},
+          {"title": "General lifecycle of small round worms", "hours": 1},
+          {"title": "Types of small round worms of livestock", "hours": 1},
+          {"title": "Symptoms of nematode infestation", "hours": 1},
+          {"title": "Diagnosis of nematode infestation", "hours": 1},
+          {"title": "Prevention of nematode infestation", "hours": 1},
+          {"title": "Control methods for nematodes", "hours": 1},
+          {"title": "Case studies and field examples on nematodes", "hours": 1}
+        ]
+      },
+      {
+        "unit": "Unit 12: Handle simple microscope",
+        "hours": 4,
+        "sessions": [
+          {"title": "Parts of microscope and functions", "hours": 1},
+          {"title": "Cleaning procedures for microscope", "hours": 1},
+          {"title": "Handling and care of microscope", "hours": 1},
+          {"title": "Practical demonstration of microscope use", "hours": 1}
+        ]
+      },
+      {
+        "unit": "Unit 13: Collect sample, store and dispatch",
+        "hours": 6,
+        "sessions": [
+          {"title": "Collection of blood, urine and feces samples", "hours": 1},
+          {"title": "Collection of milk and skin scraping samples", "hours": 1},
+          {"title": "Storage methods for biological samples", "hours": 1},
+          {"title": "Dispatch procedures and documentation", "hours": 1},
+          {"title": "Safety precautions in sample handling", "hours": 1},
+          {"title": "Case practice in sample collection and handling", "hours": 1}
+        ]
+      },
+      {
+        "unit": "Unit 14: Examine feces",
+        "hours": 10,
+        "sessions": [
+          {"title": "Direct smear method of fecal examination", "hours": 1},
+          {"title": "Sedimentation method of fecal examination", "hours": 1},
+          {"title": "Floatation method of fecal examination", "hours": 1},
+          {"title": "Identification of trematode eggs in feces", "hours": 1},
+          {"title": "Identification of cestode eggs in feces", "hours": 1},
+          {"title": "Identification of nematode eggs in feces", "hours": 1},
+          {"title": "Case practice in fecal examination I", "hours": 1},
+          {"title": "Case practice in fecal examination II", "hours": 1},
+          {"title": "Case practice in fecal examination III", "hours": 1},
+          {"title": "Case practice in fecal examination IV", "hours": 1}
+        ]
+      },
+      {
+        "unit": "Unit 15: Introduce/treat hemorrhagic septicemia",
+        "hours": 5,
+        "sessions": [
+          {"title": "Introduction to hemorrhagic septicemia", "hours": 1},
+          {"title": "Etiology of hemorrhagic septicemia", "hours": 1},
+          {"title": "Transmission and symptoms of hemorrhagic septicemia", "hours": 1},
+          {"title": "Diagnosis and treatment of hemorrhagic septicemia", "hours": 1},
+          {"title": "Prevention and control of hemorrhagic septicemia", "hours": 1}
+        ]
+      },
+      {
+        "unit": "Unit 16: Introduce black quarter",
+        "hours": 4,
+        "sessions": [
+          {"title": "Introduction to black quarter (clostridial disease)", "hours": 1},
+          {"title": "Etiology of black quarter", "hours": 1},
+          {"title": "Transmission and symptoms of black quarter", "hours": 1},
+          {"title": "Diagnosis, prevention and control of black quarter", "hours": 1}
+        ]
+      },
+      {
+        "unit": "Unit 17: Introduce anthrax",
+        "hours": 4,
+        "sessions": [
+          {"title": "Introduction to anthrax", "hours": 1},
+          {"title": "Etiology of anthrax (Bacillus anthracis)", "hours": 1},
+          {"title": "Transmission and symptoms of anthrax", "hours": 1},
+          {"title": "Diagnosis, prevention and control of anthrax", "hours": 1}
+        ]
+      },
+      {
+        "unit": "Unit 18: Introduce tetanus",
+        "hours": 4,
+        "sessions": [
+          {"title": "Introduction to tetanus", "hours": 1},
+          {"title": "Etiology of tetanus (Clostridium tetani)", "hours": 1},
+          {"title": "Transmission and symptoms of tetanus", "hours": 1},
+          {"title": "Diagnosis, prevention and control of tetanus", "hours": 1}
+        ]
+      },
+      {
+        "unit": "Unit 19: Introduce tuberculosis",
+        "hours": 4,
+        "sessions": [
+          {"title": "Introduction to tuberculosis in animals", "hours": 1},
+          {"title": "Etiology of tuberculosis (Mycobacterium complex)", "hours": 1},
+          {"title": "Transmission and symptoms of tuberculosis", "hours": 1},
+          {"title": "Diagnosis, prevention and control of tuberculosis", "hours": 1}
+        ]
+      },
+      {
+        "unit": "Unit 20: Introduce foot rot",
+        "hours": 4,
+        "sessions": [
+          {"title": "Introduction to foot rot", "hours": 1},
+          {"title": "Etiology of foot rot", "hours": 1},
+          {"title": "Transmission and symptoms of foot rot", "hours": 1},
+          {"title": "Diagnosis, prevention and control of foot rot", "hours": 1}
+        ]
+      },
+      {
+        "unit": "Unit 21: Assist to treat mastitis",
+        "hours": 5,
+        "sessions": [
+          {"title": "Introduction to mastitis", "hours": 1},
+          {"title": "Etiology of mastitis", "hours": 1},
+          {"title": "Transmission and symptoms of mastitis", "hours": 1},
+          {"title": "Diagnosis and line of treatment of mastitis", "hours": 1},
+          {"title": "Prevention and control of mastitis", "hours": 1}
+        ]
+      },
+      {
+        "unit": "Unit 22: Introduce actinomycosis",
+        "hours": 4,
+        "sessions": [
+          {"title": "Introduction to actinomycosis in animals", "hours": 1},
+          {"title": "Etiology of actinomycosis", "hours": 1},
+          {"title": "Transmission and symptoms of actinomycosis", "hours": 1},
+          {"title": "Diagnosis, prevention and control of actinomycosis", "hours": 1}
+        ]
+      },
+      {
+        "unit": "Unit 23: Introduce actinobacillosis",
+        "hours": 4,
+        "sessions": [
+          {"title": "Introduction to actinobacillosis in animals", "hours": 1},
+          {"title": "Etiology of actinobacillosis", "hours": 1},
+          {"title": "Transmission and symptoms of actinobacillosis", "hours": 1},
+          {"title": "Diagnosis, prevention and control of actinobacillosis", "hours": 1}
+        ]
+      },
+      {
+        "unit": "Unit 24: Introduce/treat calf scour",
+        "hours": 5,
+        "sessions": [
+          {"title": "Introduction to calf scour (neonatal diarrhea)", "hours": 1},
+          {"title": "Etiology of calf scour (infectious and non-infectious)", "hours": 1},
+          {"title": "Transmission and symptoms of calf scour", "hours": 1},
+          {"title": "Diagnosis and line of treatment of calf scour", "hours": 1},
+          {"title": "Prevention and control of calf scour", "hours": 1}
+        ]
+      },
+      {
+        "unit": "Unit 25: Introduce atrophic rhinitis of swine",
+        "hours": 5,
+        "sessions": [
+          {"title": "Introduction to atrophic rhinitis of swine", "hours": 1},
+          {"title": "Etiology of atrophic rhinitis (toxigenic Pasteurella/Bordetella)", "hours": 1},
+          {"title": "Transmission and symptoms of atrophic rhinitis", "hours": 1},
+          {"title": "Diagnosis and line of treatment of atrophic rhinitis", "hours": 1},
+          {"title": "Prevention and control of atrophic rhinitis", "hours": 1}
+        ]
+      }
+    ]
+  }
+}
+]
